@@ -26,5 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gohilmehul999&show_icons=true&locale=en" alt="gohilmehul999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gohilmehul999&" alt="gohilmehul999" /></p>
-<h1>Try To Learn With</>
+<h1>Try To Learn With</><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/lipstickevasive1.png" alt="TryHackMe">
